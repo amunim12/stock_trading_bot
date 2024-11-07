@@ -1,0 +1,17 @@
+pandas
+scikit-learn
+numpy
+seaborn 
+flask
+mlflow==2.17.2
+dvc
+ipykernel
+
+# dev requirements -
+pytest==8.3.3
+tox==4.23.2
+black==24.10.0
+flake8==7.1.1
+mypy==1.13.0
+
+-e .
